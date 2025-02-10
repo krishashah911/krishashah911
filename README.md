@@ -23,4 +23,4 @@ Email: krisha9jan@gmail.com
 ## 📊 Github Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishashah911)](https://github.com/krishashah911/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishashah911)](https://github.com/krishashah911/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishashah911&layout=compact)
