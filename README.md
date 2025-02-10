@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I'm Krisha Shah, a dedicated data analyst with a
 
 **Databases:** MySQL, PostgreSQL, Orcale
 
-**Cloud Services:** Google Cloud Platform (GCP), Azure
+**Cloud Services:** Google Cloud Platform (GCP), Azure, AWS
 
 **Web Scraping:** BeautifulSoup, Selenium
 
