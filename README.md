@@ -4,15 +4,23 @@ Welcome to my GitHub portfolio! I'm Krisha Shah, a dedicated data analyst with a
 
 ## 📚 Skills
 Programming Languages: Python, R, SQL
+
 Data Visualization: Tableau, Power BI, Looker, Alteryx, Matplotlib, Seaborn, Excel
+
 Databases: MySQL, PostgreSQL, Orcale
+
 Cloud Services: Google Cloud Platform (GCP), Azure
+
 Web Scraping: BeautifulSoup, Selenium
+
 Predictive Analytics, Statistics, Hypothesis & A/B Testing
 
 ## 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/krishashah0901/
+
 Email: krisha9jan@gmail.com
 
 ## 📊 Github Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishashah911)](https://github.com/krishashah911/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishashah911)](https://github.com/krishashah911/github-readme-stats)
